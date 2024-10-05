@@ -1,0 +1,15 @@
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.AssemblyInfoInputs.cache
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.AssemblyInfo.cs
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.sourcelink.json
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\bin\Debug\net8.0\WeatherStationSimulator.exe
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\bin\Debug\net8.0\WeatherStationSimulator.deps.json
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\bin\Debug\net8.0\WeatherStationSimulator.runtimeconfig.json
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\bin\Debug\net8.0\WeatherStationSimulator.dll
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\bin\Debug\net8.0\WeatherStationSimulator.pdb
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.dll
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\refint\WeatherStationSimulator.dll
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.pdb
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.genruntimeconfig.cache
+C:\Users\Klaudusia Skowyrka\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\ref\WeatherStationSimulator.dll
